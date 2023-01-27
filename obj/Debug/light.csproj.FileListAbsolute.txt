@@ -1,0 +1,11 @@
+E:\repos\light\light\bin\Debug\light.exe.config
+E:\repos\light\light\bin\Debug\light.exe
+E:\repos\light\light\bin\Debug\light.pdb
+E:\repos\light\light\obj\Debug\light.csproj.AssemblyReference.cache
+E:\repos\light\light\obj\Debug\light.csproj.SuggestedBindingRedirects.cache
+E:\repos\light\light\obj\Debug\light.Form1.resources
+E:\repos\light\light\obj\Debug\light.Properties.Resources.resources
+E:\repos\light\light\obj\Debug\light.csproj.GenerateResource.cache
+E:\repos\light\light\obj\Debug\light.csproj.CoreCompileInputs.cache
+E:\repos\light\light\obj\Debug\light.exe
+E:\repos\light\light\obj\Debug\light.pdb
